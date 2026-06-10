@@ -1,161 +1,146 @@
 # PionierART
 
-![React](https://img.shields.io/badge/React-18-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-blue)
-![Vite](https://img.shields.io/badge/Vite-6-purple)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8)
-![React Router](https://img.shields.io/badge/React_Router-7-red)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-Forms-EC5990)
+<div align="center">
 
-## Overview
+[![Live Website](https://img.shields.io/badge/🌐_Live_Website-PionierART-success?style=for-the-badge)](https://pionierart.vercel.app/)
+![Commercial Project](https://img.shields.io/badge/Commercial-Business_Website-orange?style=for-the-badge)
+![Private Repository](https://img.shields.io/badge/Source_Code-Private-red?style=for-the-badge)
 
-PionierART is a commercial website created for an event production company specializing in technical support for concerts, festivals, conferences, and large-scale events.
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge)
 
-The project focuses on presenting services, showcasing company capabilities, and providing a clear contact path for potential clients through a modern, responsive, and animation-driven user experience.
+### Commercial Event Production Company Website
 
-### Live Website
+Modern marketing website developed for a company specializing in technical support for concerts, festivals, conferences, and large-scale events.
 
-https://pionierart.vercel.app/
+</div>
 
 ---
 
-## Business Context
+## Live Website
 
-The website was developed to present the company's event production services and improve communication with potential customers.
+🌐 https://pionierart.vercel.app/
 
-The primary goals of the website are:
+---
 
-- Service presentation
-- Brand visibility
-- Portfolio showcase
-- Lead generation through contact forms and direct communication channels
+## Overview
+
+PionierART is a commercial website developed for an event production company providing professional technical services for live events.
+
+The website was designed to strengthen the company's online presence, showcase its service offering, and create a clear communication path for potential customers.
+
+The project combines modern UI design, smooth animations, responsive layouts, and conversion-focused user journeys.
+
+---
+
+## Project Type
+
+**Commercial Marketing Website**
+
+---
+
+## Business Goals
+
+* Present company services
+* Increase brand visibility
+* Showcase completed projects
+* Improve customer communication
+* Generate new business inquiries
 
 ---
 
 ## Features
 
-### Homepage
-
-- Hero section
-- Service presentation
-- Company information
-- Portfolio showcase
-- Partners section
-- Contact section
-- Call-to-action sections
-
-### Service Pages
+### Service Presentation
 
 Dedicated pages for:
 
-- Stage Lighting
-- Sound Systems
-- Multimedia Solutions
-- Stage Structures
-- Power Generators
+* Stage Lighting
+* Sound Systems
+* Multimedia Solutions
+* Stage Structures
+* Power Generators
 
-### Contact Experience
+### Lead Generation
 
-- Contact form
-- Client-side validation
-- Email-based inquiry submission
-- Direct phone contact
-- Social media links
+* Contact form
+* Client-side validation
+* Direct contact information
+* Social media integration
 
 ### User Experience
 
-- Responsive layout
-- Animated transitions
-- Scroll-based interactions
-- Intro animation
-- Cookie consent banner
-- Legal information modals
+* Fully responsive design
+* Animated page transitions
+* Scroll-based interactions
+* Intro animation
+* Cookie consent management
+* Legal information pages
 
 ---
 
-## Tech Stack
+## Technology Stack
 
 ### Frontend
 
-- React 18
-- TypeScript
-- React Router
-- Vite
-- Tailwind CSS
+* React 18
+* TypeScript
+* React Router
+* Vite
+* Tailwind CSS
 
 ### UI & Animation
 
-- Motion
-- Radix UI
-- Material UI
-- Lucide React
+* Motion
+* Radix UI
+* Material UI
+* Lucide React
+
+### Forms & Validation
+
+* React Hook Form
 
 ### Additional Libraries
 
-- React Helmet Async
-- React Hook Form
-- Sonner
-- Embla Carousel
-- React Slick
-- Recharts
+* React Helmet Async
+* Sonner
+* Embla Carousel
+* React Slick
+* Recharts
 
 ---
 
-## Architecture
+## Technical Highlights
 
-The application follows a component-based React architecture.
+### Responsive Design
 
-```text
-App
-│
-├── Router
-│
-├── Pages
-│   ├── HomePage
-│   └── ...
-│
-├── Reusable Components
-│
-├── Shared UI Components
-│
-└── Styling System
-```
+The website is fully optimized for desktop, tablet, and mobile devices.
 
----
+### SEO Optimization
 
-## Key Technical Implementations
+Dedicated metadata management improves visibility and search engine indexing.
 
-### Route-Based Navigation
+### Reusable Page Architecture
 
-The website uses React Router to manage navigation between service pages and the homepage.
-
-### Reusable Service Page Structure
-
-Individual service pages are implemented using reusable patterns to maintain consistency across the website.
-
-### SEO Management
-
-Dedicated SEO components are used to manage page metadata.
+Service pages follow reusable design patterns to maintain visual consistency and simplify maintenance.
 
 ### Animation System
 
-Motion is used throughout the application to create transitions, interactive effects, and section reveals.
-
-### Cookie Consent Persistence
-
-Cookie preferences are stored locally using browser storage.
+Motion-based interactions create engaging transitions and improve overall user experience.
 
 ### Form Validation
 
-The contact form validates user input before submission.
+Client-side validation ensures data quality before submission.
+
+### Cookie Preference Persistence
+
+User preferences are stored locally to improve compliance and usability.
 
 ---
 
 ## Project Gallery
-
-### Intro
-
-![Intro](screenshots/intro.png)
 
 ### Homepage
 
@@ -165,79 +150,37 @@ The contact form validates user input before submission.
 
 ![Contact Section](screenshots/contact.png)
 
-### Mobile Version
+### Mobile Experience
 
-![Mobile Version 1](screenshots/mobile1.jpg)
+![Mobile Version](screenshots/mobile1.jpg)
 
-![Mobile Version 2](screenshots/mobile2.jpg)
-
----
-
-## Demonstration
-
-### Live Website
-
-https://pionierart.vercel.app/
-
----
-
-## Project Structure
-
-```text
-.
-├── public
-│   └── logo.png
-│   └── ...
-│
-├── src
-│   ├── app
-│   │   ├── App.tsx
-│   │   ├── routes.tsx
-│   │   │
-│   │   ├── components
-│   │   │   ├── HeroNew.tsx
-│   │   │   ├── ServicesNew.tsx
-│   │   │   ├── ContactNew.tsx
-│   │   │   └── ...
-│   │   │
-│   │   └── pages
-│   │       ├── HomePage.tsx
-│   │       ├── AgregatyPage.tsx
-│   │       ├── MultimediaPage.tsx
-│   │       └── ...
-│   │
-│   ├── assets
-│   └── ...
-│
-├── index.html
-├── package.json
-└── vite.config.ts
-```
+![Mobile Version](screenshots/mobile2.jpg)
 
 ---
 
 ## Source Code Availability
 
-Source code is private due to commercial and intellectual property reasons.
+Source code is private due to commercial agreements and intellectual property considerations.
+
+This repository serves as a showcase of the project's design, technologies, and implementation approach.
 
 ---
 
 ## Author
 
-**Adam Jastrzębski**
+### Adam Jastrzębski
 
-[![GitHub](https://img.shields.io/badge/GitHub-MatysiakQ-181717?style=for-the-badge&logo=github)](https://github.com/MatysiakQ)
+[![GitHub](https://img.shields.io/badge/GitHub-MatysiakQ-181717?style=for-the-badge\&logo=github)](https://github.com/MatysiakQ)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Jastrzębski-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adamjastrzebski/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Jastrzębski-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/adamjastrzebski/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-adamjastrzebski.bio-4CAF50?style=for-the-badge&logo=googlechrome)](https://adamjastrzebski.bio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adamjastrzebski.bio-4CAF50?style=for-the-badge\&logo=googlechrome)](https://adamjastrzebski.bio/)
 
 ---
 
 ## Acknowledgements
 
-This repository includes components based on:
+This project utilizes selected components and design patterns based on:
 
-- shadcn/ui
-- Radix UI
-
+* shadcn/ui
+* Radix UI
