@@ -155,31 +155,21 @@ The contact form validates user input before submission.
 
 ### Intro
 
-```text
-/screenshots/intro.png
-```
+![Intro](screenshots/intro.png)
 
 ### Homepage
 
-```text
-/screenshots/homepage.png
-```
+![Homepage](screenshots/homepage.png)
 
 ### Contact Section
 
-```text
-/screenshots/contact.png
-```
+![Contact Section](screenshots/contact.png)
 
 ### Mobile Version
 
-```text
-/screenshots/mobile1.jpg
-```
+![Mobile Version 1](screenshots/mobile1.jpg)
 
-```text
-/screenshots/mobile2.jpg
-```
+![Mobile Version 2](screenshots/mobile2.jpg)
 
 ---
 
