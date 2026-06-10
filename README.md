@@ -153,16 +153,16 @@ The contact form validates user input before submission.
 
 ## Project Gallery
 
+### Intro
+
+```text
+/screenshots/intro.png
+```
+
 ### Homepage
 
 ```text
-/screenshots/homepage.png
-```
-
-### Services
-
-```text
-/docs/screenshots/services.png
+/docs/screenshots/homepage.png
 ```
 
 ### Contact Section
@@ -174,7 +174,11 @@ The contact form validates user input before submission.
 ### Mobile Version
 
 ```text
-/docs/screenshots/mobile.png
+/docs/screenshots/mobile1.jpg
+```
+
+```text
+/docs/screenshots/mobile2.jpg
 ```
 
 ---
