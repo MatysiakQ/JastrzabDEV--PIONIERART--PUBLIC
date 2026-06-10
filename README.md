@@ -241,4 +241,3 @@ This repository includes components based on:
 - shadcn/ui
 - Radix UI
 
-See `ATTRIBUTIONS.md` for additional information.
