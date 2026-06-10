@@ -4,6 +4,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-blue)
 ![Vite](https://img.shields.io/badge/Vite-6-purple)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8)
+![React Router](https://img.shields.io/badge/React_Router-7-red)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-Forms-EC5990)
 
 ## Overview
 
@@ -153,15 +155,11 @@ The contact form validates user input before submission.
 
 ### Homepage
 
-Add screenshot here.
-
 ```text
-/docs/screenshots/homepage.png
+/screenshots/homepage.png
 ```
 
 ### Services
-
-Add screenshot here.
 
 ```text
 /docs/screenshots/services.png
@@ -169,15 +167,11 @@ Add screenshot here.
 
 ### Contact Section
 
-Add screenshot here.
-
 ```text
 /docs/screenshots/contact.png
 ```
 
 ### Mobile Version
-
-Add screenshot here.
 
 ```text
 /docs/screenshots/mobile.png
@@ -238,7 +232,11 @@ Source code is private due to commercial and intellectual property reasons.
 
 **Adam Jastrzębski**
 
-Frontend Developer
+[![GitHub](https://img.shields.io/badge/GitHub-MatysiakQ-181717?style=for-the-badge&logo=github)](https://github.com/MatysiakQ)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Jastrzębski-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adamjastrzebski/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adamjastrzebski.bio-4CAF50?style=for-the-badge&logo=googlechrome)](https://adamjastrzebski.bio/)
 
 ---
 
